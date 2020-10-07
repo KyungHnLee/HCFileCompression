@@ -1,8 +1,5 @@
 //
 // BSTIterator.hpp
-// CSE 100 Project 1
-//
-// Last modified by Heitor Schueroff on 01/10/2019
 //
 
 #ifndef BSTITERATOR_HPP

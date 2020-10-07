@@ -1,8 +1,5 @@
 //
 // BST.hpp
-// CSE 100 Project 1
-//
-// Last modified by Heitor Schueroff on 01/10/2019
 //
 
 #ifndef BST_HPP
